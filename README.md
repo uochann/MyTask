@@ -1,24 +1,11 @@
-# README
+# アプリケーション名：　MyTask
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#　アプリケーション概要：目標物や達成物に対し細かく管理することで、着実にゴールに向かって進むためのアプリケーション
 
-Things you may want to cover:
+#　本番環境URL
 
-* Ruby version
+#　テストアカウント
 
-* System dependencies
+# 利用方法：　アカウントにサインアップし、タスクを作成し、タスクが達成したタイミングでタスクを完了済みにいれる
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+#
